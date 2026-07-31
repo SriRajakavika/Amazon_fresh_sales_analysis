@@ -9,8 +9,8 @@ Monitor store performance.
 Build an interactive dashboard for business decision-making.
 
 Tools used:
-MySQL
-SQL
+MySQL,
+SQL,
 Power BI
 
 Key Features:
@@ -22,10 +22,10 @@ Interactive Dashboard
 SQL Business Queries
 
 Files Included:
-Dataset
-SQL Queries
-Power BI Dashboard (.pbix)
-Project Documentation
+Dataset,
+SQL Queries,
+Power BI Dashboard (.pbix),
+Project Documentation.
 
 Created By: Sri Rajakavika Palanivel
 
