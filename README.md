@@ -27,6 +27,10 @@ SQL Queries,
 Power BI Dashboard (.pbix),
 Project Documentation.
 
+ 📊 Dashboard Preview
+
+![Home Page](Images/Home%20page.png)
+
 Created By: Sri Rajakavika Palanivel
 
 
